@@ -6,7 +6,7 @@
         id = "com.phonegap.hello-world"
         version = "1.0.0">
 
-    <name>EMERGENCY 999</name>
+    <name>999</name>
 
     <description>
         Hello World sample application that responds to the deviceready event.
